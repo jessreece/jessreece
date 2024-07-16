@@ -11,7 +11,7 @@
   - Node JS
     
 - 🌱 I’m currently furthering my AWS knowledge
-- 
+  
 - 📫 How to reach me 
   - Email : jessreece0@gmail.com
     
