@@ -8,8 +8,9 @@
   - CSS
   - SQL
   - Python
+  - Node JS
     
-- 🌱 I’m currently learning AWS to complete the certification
+- 🌱 I’m currently furthering my AWS knowledge
 - 
 - 📫 How to reach me 
   - Email : jessreece0@gmail.com
