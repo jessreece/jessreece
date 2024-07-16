@@ -10,7 +10,7 @@
   - Python
   - Node JS
     
-- 🌱 I’m currently furthering my AWS knowledge
+- 🌱 I’m currently focussing on furthering my AWS Cloud knowledge
   
 - 📫 How to reach me 
   - Email : jessreece0@gmail.com
